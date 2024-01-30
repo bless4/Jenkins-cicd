@@ -1,4 +1,4 @@
-# Jenkins-CICD (Simplilearn Tutorial)
+# Jenkins-CICD (TechLab)
 
 It's 24-hours hands-on instructor-led training program covers Jenkins and CI/CD concepts, with topics distributed across 9 lessons. This GitHub repository contains all the hands-on lab materials on different branches.
 
